@@ -8,6 +8,8 @@ Pillow
 # Machine learning model and utilities
 torch
 yolov5  # YOLOv8 is not yet available directly via pip, so YOLOv5 is a placeholder
+roboflow
+ultralytics
 
 # Web application framework
 streamlit
