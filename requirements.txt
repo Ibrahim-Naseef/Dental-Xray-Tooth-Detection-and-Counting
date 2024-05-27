@@ -3,6 +3,7 @@
 
 # Image processing libraries
 opencv-python-headless
+opencv-python
 Pillow
 
 
