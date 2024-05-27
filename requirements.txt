@@ -1,0 +1,17 @@
+# Specify the Python version
+python==3.11.9
+
+# Image processing libraries
+opencv-python-headless
+Pillow
+
+# Machine learning model and utilities
+torch
+yolov5  # YOLOv8 is not yet available directly via pip, so YOLOv5 is a placeholder
+
+# Web application framework
+streamlit
+
+# Other utilities
+numpy
+pandas
