@@ -1,5 +1,5 @@
 # Specify the Python version
-python==3.11.9
+#python==3.11.9
 
 # Image processing libraries
 opencv-python-headless
