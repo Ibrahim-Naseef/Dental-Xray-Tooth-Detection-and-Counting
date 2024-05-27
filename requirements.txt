@@ -4,7 +4,7 @@
 # Image processing libraries
 opencv-python-headless
 Pillow
-tkinter
+
 
 # Machine learning model and utilities
 torch
